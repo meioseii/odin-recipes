@@ -1,0 +1,11 @@
+body {
+    background-color: slategray;
+    color: darkslategray;
+    font-family: "Courier New", Monospace;
+    font-size: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px
+}
