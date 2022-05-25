@@ -2,10 +2,10 @@ body {
     background-color: slategray;
     color: darkslategray;
     font-family: "Courier New", Monospace;
-    font-size: 40px;
+    font-size: 15px;
 }
 
 img {
-    width: 400px;
-    height: 400px
+    width: 300px;
+    height: 300px
 }
